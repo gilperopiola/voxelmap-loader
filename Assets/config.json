@@ -1,0 +1,6 @@
+{
+    "projectName": "VoxelMap Loader",
+    "voxelMap": {
+        "fileName": "Assets/Resources/Maps/vmap.json"
+    }
+}
